@@ -95,7 +95,7 @@ export default function ValentineApp() {
       autoPlay
       style={{ borderRadius: "8px" }}
     >
-      <source src="/valentine.mp4" type="video/mp4" />
+      <source src="./valentine.mp4" type="video/mp4" />
     </video>
 
     <p style={{ marginTop: "8px", fontSize: "14px" }}>
@@ -159,7 +159,7 @@ export default function ValentineApp() {
         >
           <h1 style={styles.title}>
             You made me the happiest person alive ❤️
-            
+
             Happy Valentine's Day Ramyuu!
           </h1>
         </motion.div>
