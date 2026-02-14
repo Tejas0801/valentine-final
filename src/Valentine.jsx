@@ -96,6 +96,7 @@ export default function ValentineApp() {
       style={{ borderRadius: "8px" }}
     >
       <source src="./valentine.mp4" type="video/mp4" />
+
     </video>
 
     <p style={{ marginTop: "8px", fontSize: "14px" }}>
