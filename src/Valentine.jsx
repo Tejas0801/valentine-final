@@ -11,7 +11,7 @@ export default function ValentineApp() {
   const noTexts = [
     "No 😒",
     "Seriously Ramyuuu 🥺",
-    "Rakshahsiii 😢",
+    "Rakshasiii 😢",
     "idhi intlo chupistha 💔",
     "😭",
     "Yes click chey bey😤",
