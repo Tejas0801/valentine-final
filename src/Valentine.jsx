@@ -100,7 +100,7 @@ export default function ValentineApp() {
     </video>
 
     <p style={{ marginTop: "8px", fontSize: "14px" }}>
-      I'll show this in you're home 😈
+      I'll show this in your home 😈
     </p>
   </motion.div>
 )}
